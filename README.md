@@ -12,11 +12,11 @@ RUPAYAN MONDA<br>
 
 Computer Sales Billing System, in this we have created a java project where we used to keep record of all sales  from shop. It also keep record of each product in invventory.<br>
 Some feature are as follows :- <br>
-It can generate different types of bills.<br>
-It can do error free calculations.<br>
-Multiple user can access.<br>
-User Frindly Bills.<br>
-Records modification can be done easily.<br>
+* It can generate different types of bills.<br>
+* It can do error free calculations.<br>
+* Multiple user can access.<br>
+* User Frindly Bills.<br>
+* Records modification can be done easily.<br>
 
 
 
