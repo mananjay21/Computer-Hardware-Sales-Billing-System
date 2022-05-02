@@ -1,0 +1,171 @@
+Welcome to Computer Hardware Sales Billing System System
+Enter type of user (admin or user)
+user
+Enter user name
+ram
+Enter password
+12345
+logged in
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+1
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+insert id.no
+4
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+1
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+insert id.no
+2
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+3
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+1
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+insert id.no
+3
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+3                   3                   ssd                 500                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+1
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+insert id.no
+3
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+3                   3                   ssd                 500                 
+
+4                   3                   ssd                 500                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+2
+
+before deleting
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+3                   3                   ssd                 500                 
+
+4                   3                   ssd                 500                 
+
+entr the bill_id to delete
+3
+
+after deleting
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+4                   3                   ssd                 500                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+3
+
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+4                   3                   ssd                 500                 
+
+1 add item
+2 remove item
+3 view cart
+4 to exit
+4
+                             YOUR BILL
+
+bill_id             id                  p_name              price               
+1                   4                   Chargere            1600                
+
+2                   2                   hdd                 300                 
+
+4                   3                   ssd                 500                 
+	total price = 	2400
+		THANK YOU FOR SHOPPING
