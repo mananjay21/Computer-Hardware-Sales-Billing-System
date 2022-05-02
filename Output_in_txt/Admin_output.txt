@@ -1,0 +1,220 @@
+Welcome to Computer Hardware Sales Billing System System
+Enter type of user (admin or user)
+admin
+Enter User Name
+admin
+Enter Password
+admin
+logged in
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+3
+
+
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+4
+
+before updating
+
+id                  p_name              price               
+1                   ram                 200                 
+
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+
+entr the id to update
+1
+
+entr updated price
+3000
+
+after deleting
+
+id                  p_name              price               
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+4
+
+before updating
+
+id                  p_name              price               
+2                   hdd                 300                 
+
+3                   ssd                 500                 
+
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+entr the id to update
+3
+
+entr updated price
+4000
+
+after deleting
+
+id                  p_name              price               
+2                   hdd                 300                 
+
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+4
+
+before updating
+
+id                  p_name              price               
+2                   hdd                 300                 
+
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+entr the id to update
+2
+
+entr updated price
+3500
+
+after deleting
+
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+2                   hdd                 3500                
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+1
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+2                   hdd                 3500                
+insert id.no (must be unique)
+5
+insert name
+Keyboard
+insert price
+900
+
+
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+2                   hdd                 3500                
+
+5                   Keyboard            900                 
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+2
+
+before deleting
+
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+3                   ssd                 4000                
+
+2                   hdd                 3500                
+
+5                   Keyboard            900                 
+
+entr the id to delete
+3
+
+after deleting
+
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+2                   hdd                 3500                
+
+5                   Keyboard            900                 
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
+3
+
+
+id                  p_name              price               
+4                   Chargere            1600                
+
+1                   ram                 3000                
+
+2                   hdd                 3500                
+
+5                   Keyboard            900                 
+
+1 add product
+2 remove product
+3 view list
+4 manage product
+5 to exit
