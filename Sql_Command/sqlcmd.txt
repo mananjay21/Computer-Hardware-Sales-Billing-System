@@ -1,0 +1,15 @@
+create table users(username varchar(50) unique,password varchar(50) unique)
+
+insert into users values('ram','12345'),('sam','98765'),('dam','14785')
+
+create table admin(username varchar(50) unique,password varchar(50) unique)
+
+insert into admin values('admin','admin')
+
+create table product(id int unique ,p_name varchar(50),price int )
+
+insert into product values(1 ,'ram',200),(2,'hdd',300),(3,'ssd',500)
+
+create table bill(bill_id serial primary key,id int ,p_name varchar(50),price int )
+
+SELECT SUM(price)  AS "Total price" FROM bill;
