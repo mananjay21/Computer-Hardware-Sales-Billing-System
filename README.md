@@ -6,7 +6,7 @@ MANANJAY ROY- Leader <br>
 AVIJIT PAUL<br>
 ARKA MAJUMDAR<br>
 SUBHAM KUMAR<br>
-RUPAYAN MONDA<br>
+RUPAYAN MONDAL<br>
 
 ## Project Description
 
